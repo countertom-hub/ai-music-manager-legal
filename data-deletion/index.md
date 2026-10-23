@@ -11,7 +11,7 @@ Last updated: 23 October 2026.
 
 To request deletion of personal data that AI Music Manager may hold, contact:
 
-**Email:** [PUBLIC CONTACT EMAIL — TO BE CONFIRMED]  
+**Email:** countertom@gmail.com  
 **Subject:** AI Music Manager — Data Deletion Request
 
 Describe the Instagram username or account relevant to the request and which data you want removed. Do not send your Instagram password, access token, or unnecessary identity documents.
