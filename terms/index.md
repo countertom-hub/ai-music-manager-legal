@@ -11,8 +11,8 @@ Last updated: 23 October 2026.
 
 AI Music Manager is currently a privately operated tool for managing the operator's own music projects and authorized social media accounts.
 
-**Operator:** [LEGAL NAME — TO BE CONFIRMED]  
-**Contact:** [PUBLIC CONTACT EMAIL — TO BE CONFIRMED]
+**Operator:** Tomáš Kučera  
+**Contact:** countertom@gmail.com
 
 ## 2. Authorized use
 
