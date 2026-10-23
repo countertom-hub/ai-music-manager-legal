@@ -11,8 +11,8 @@ Last updated: 23 October 2026.
 
 AI Music Manager is currently operated by an individual, rather than a company.
 
-**Operator name:** [LEGAL NAME — TO BE CONFIRMED]  
-**Privacy contact:** [PUBLIC CONTACT EMAIL — TO BE CONFIRMED]  
+**Operator name:** Tomáš Kučera  
+**Privacy contact:** countertom@gmail.com  
 **Country:** Czech Republic.
 
 ## 2. Purpose of the service
