@@ -3,12 +3,14 @@ title: AI Music Manager — Legal Information
 ---
 # AI Music Manager — Legal Information
 
-AI Music Manager is a privately operated software project supporting music artist accounts including RENYVO and ERVAYO.
+AI Music Manager is an internal software project operated by **Tomáš Kučera, Czech Republic**, supporting music projects including RENYVO and ERVAYO and their authorized professional accounts.
 
-**Draft notice:** These documents are being prepared for publication. Operator contact details and data retention practices must be confirmed before use in Meta Developers.
+Read the following notices for information about use of the service, personal-data processing and deletion requests.
 
 - [Privacy Policy](privacy-policy/)
 - [Terms of Service](terms/)
 - [Data Deletion Instructions](data-deletion/)
 
-Last updated: 23 October 2026.
+Contact: [countertom@gmail.com](mailto:countertom@gmail.com).
+
+Last updated: 25 October 2026.

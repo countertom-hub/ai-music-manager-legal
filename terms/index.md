@@ -3,37 +3,40 @@ title: Terms of Service — AI Music Manager
 ---
 # Terms of Service
 
-**Status: DRAFT — NOT READY FOR SUBMISSION TO META.**
+Last updated: 25 October 2026.
 
-Last updated: 23 October 2026.
+## 1. Operator and purpose
 
-## 1. Operator and scope
+AI Music Manager is operated by **Tomáš Kučera**, an individual based in the Czech Republic. Contact: [countertom@gmail.com](mailto:countertom@gmail.com).
 
-AI Music Manager is currently a privately operated tool for managing the operator's own music projects and authorized social media accounts.
-
-**Operator:** Tomáš Kučera  
-**Contact:** countertom@gmail.com
+It is an internal tool for the operator's music projects, including RENYVO and ERVAYO, and authorized professional social-media accounts. Public access to these information pages is not an invitation to connect unrelated accounts or use the management API. No public subscription service or service-level guarantee is offered by these terms.
 
 ## 2. Authorized use
 
-The service is intended for authorized use by the operator and any users expressly approved by the operator. Users must comply with applicable law and the terms and policies of Meta and Instagram. No unauthorized access to third-party accounts is permitted.
+Use of management functions requires the operator's authorization and the relevant account permissions. Users must comply with applicable law and Meta, Instagram and other providers' terms. Do not access accounts without permission, disclose credentials, circumvent safeguards or submit personal information unrelated to an authorized purpose. An API permission is not a general authorization to repurpose a commenter's data.
 
-## 3. Platform integrations
+The operator remains responsible for the lawfulness of content, rights in creative inputs and outputs, account-management decisions, and any data shared with another service. Output from an AI or advisory tool is not a guarantee of copyright ownership, accuracy or suitability for release.
 
-Instagram features depend on permissions granted by Meta, API availability, account status, and platform rules. The operator does not guarantee that any particular Instagram data will be available. Meta and Instagram are independent services and are not sponsors of this application.
+## 3. Instagram functionality
 
-## 4. Content and decisions
+The present integration requests account, media and comment information through Meta's API, subject to the granted permissions and the data Meta makes available. Requested comments may be unavailable even when a post displays a non-zero comment count.
 
-The operator remains responsible for content, publishing decisions, and responses made through connected accounts. Any automated or heuristic categorization is advisory and may be incorrect. The current comment-reading module is read-only.
+The current module is read-only: it does not publish replies, hide or delete comments, or access direct messages. Its phrase-based review labels are suggestions and can be wrong. Any future write, moderation, persistent-storage or AI comment feature requires a separate implementation and review of permissions, data handling and these notices before activation.
 
-## 5. Availability and changes
+Meta and Instagram operate independently and do not sponsor or endorse AI Music Manager. Provider changes, authorization expiry or account restrictions may limit or stop an integration.
 
-The operator may change, suspend, or discontinue functionality, including third-party integrations, when necessary. These terms may be revised with an updated date.
+## 4. Access, security and availability
 
-## 6. Privacy and contact
+The operator may restrict or suspend access to protect accounts, comply with law or address misuse, and may change or discontinue features. Authorized users must protect credentials and report suspected misuse promptly. Backup procedures support recovery but do not guarantee uninterrupted service or recovery of every file or transaction.
 
-See the [Privacy Policy](../privacy-policy/) and [Data Deletion Instructions](../data-deletion/).
+Nothing here excludes mandatory rights or liability that cannot lawfully be excluded. These terms do not authorize unlawful processing or override applicable platform conditions.
 
-## 7. Applicable law
+## 5. Privacy and removal of data
 
-These terms are intended to operate subject to applicable Czech and European Union law, including mandatory protections that cannot be excluded by contract.
+The [Privacy Policy](../privacy-policy/) describes data handling, providers, locations, logs and backups. Use the [Data Deletion Instructions](../data-deletion/) to request erasure of data held by the operator. Disconnecting an account and deleting stored copies are separate actions; neither action through this application automatically deletes independently hosted Instagram content.
+
+## 6. Applicable law and changes
+
+Applicable Czech law and mandatory European Union protections apply. Contact the operator to raise an issue. These terms do not restrict rights that cannot be waived, including the right to contact a competent authority or court.
+
+The operator will update the date and relevant notices when material service or operator details change.
